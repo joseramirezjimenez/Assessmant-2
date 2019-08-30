@@ -1,0 +1,32 @@
+.footer, div {
+    position: fixed;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: lightblue;
+    font-family: 'MedievalSharp', cursive;
+   }
+hr {
+    width: 100%;
+    height: 15px;
+    background-color: darkgray;
+    border-color: black;
+    }
+
+    a {
+        text-decoration: none;
+        padding: 7px;
+        display: inline-block;
+    }
+
+    a:link {
+        color: black
+    }
